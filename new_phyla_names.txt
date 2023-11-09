@@ -1,0 +1,43 @@
+new_name	old_name	old_name_2	old_name_3
+Acidobacteriota	Acidobacteria	
+Actinomycetota	Actinobacteria
+Aquificota	Aquificae
+Armatimonadota	Armatimonadetes
+Atribacterota	Atribacteria
+Bacillota	Firmicutes	Firmacutes
+Bacteroidota	Bacteroidetes
+Balneolota	Balneolaeota
+Bdellovibrionota	Bdellovibrio	Oligoflexia
+Caldisericota	Caldiserica
+Calditrichota	Calditrichaeota
+Campylobacterota	Epsilonbacteraeota
+Chlamydiota	Chlamydiae
+Chlorobiota	Chlorobi
+Chloroflexota	Chloroflexi
+Chrysiogenota	Chrysiogenetes
+Coprothermobacterota	Firmicutes
+Deferribacterota	Deferribacteres
+Deinococcota	Deinococcus-Thermus
+Dictyoglomota	Dictyoglomi
+Elusimicrobiota	Elusimicrobia
+Fibrobacterota	Fibrobacteres
+Fusobacteriota	Fusobacteria
+Gemmatimonadota	Gemmatimonadetes
+Ignavibacteriota	Ignavibacteriae
+Kiritimatiellota	Kiritimatiellaeota
+Lentisphaerota	Lentisphaerae
+Mycoplasmatota	Tenericutes
+Myxococcota	
+Nitrososphaerota	Thaumarchaeota
+Nitrospinota	Nitrospinae
+Nitrospirota	Nitrospirae
+Planctomycetota	Planctomycetes
+Pseudomonadota	Proteobacteria
+Rhodothermota	Rhodothermaeota
+Spirochaetota	Spirochaetes
+Synergistota	Synergistetes
+Thermodesulfobacteriota	Thermodesulfobacteria	Desulfobacterota
+Thermomicrobiota	Thermomicrobia
+Thermoproteota	Crenarchaeota
+Thermotogota	Thermotogae
+Verrucomicrobiota	Verrucomicrobia
